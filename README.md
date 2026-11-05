@@ -17,7 +17,7 @@ Built with Python and [ttkbootstrap](https://ttkbootstrap.readthedocs.io/) (them
 - **NEXT / BACK** buttons to move through the algorithm, so you can go forward and back at your own pace
 
 ## Run it
-Requires Python 3.9+ with Tkinter (included with most Python installers; on Debian/Ubuntu
+Developed and tested with Python 3.12 and Tkinter (included with most Python installers; on Debian/Ubuntu
 `sudo apt install python3-tk`).
 
 ```bash
